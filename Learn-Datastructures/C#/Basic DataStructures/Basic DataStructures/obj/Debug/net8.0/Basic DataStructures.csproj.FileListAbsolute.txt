@@ -1,0 +1,14 @@
+C:\Users\imadb\OneDrive\Bureau\Data Structures\C#\Basic DataStructures\Basic DataStructures\bin\Debug\net8.0\Basic DataStructures.exe
+C:\Users\imadb\OneDrive\Bureau\Data Structures\C#\Basic DataStructures\Basic DataStructures\bin\Debug\net8.0\Basic DataStructures.deps.json
+C:\Users\imadb\OneDrive\Bureau\Data Structures\C#\Basic DataStructures\Basic DataStructures\bin\Debug\net8.0\Basic DataStructures.runtimeconfig.json
+C:\Users\imadb\OneDrive\Bureau\Data Structures\C#\Basic DataStructures\Basic DataStructures\bin\Debug\net8.0\Basic DataStructures.dll
+C:\Users\imadb\OneDrive\Bureau\Data Structures\C#\Basic DataStructures\Basic DataStructures\bin\Debug\net8.0\Basic DataStructures.pdb
+C:\Users\imadb\OneDrive\Bureau\Data Structures\C#\Basic DataStructures\Basic DataStructures\obj\Debug\net8.0\Basic DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imadb\OneDrive\Bureau\Data Structures\C#\Basic DataStructures\Basic DataStructures\obj\Debug\net8.0\Basic DataStructures.AssemblyInfoInputs.cache
+C:\Users\imadb\OneDrive\Bureau\Data Structures\C#\Basic DataStructures\Basic DataStructures\obj\Debug\net8.0\Basic DataStructures.AssemblyInfo.cs
+C:\Users\imadb\OneDrive\Bureau\Data Structures\C#\Basic DataStructures\Basic DataStructures\obj\Debug\net8.0\Basic DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\imadb\OneDrive\Bureau\Data Structures\C#\Basic DataStructures\Basic DataStructures\obj\Debug\net8.0\Basic DataStructures.dll
+C:\Users\imadb\OneDrive\Bureau\Data Structures\C#\Basic DataStructures\Basic DataStructures\obj\Debug\net8.0\refint\Basic DataStructures.dll
+C:\Users\imadb\OneDrive\Bureau\Data Structures\C#\Basic DataStructures\Basic DataStructures\obj\Debug\net8.0\Basic DataStructures.pdb
+C:\Users\imadb\OneDrive\Bureau\Data Structures\C#\Basic DataStructures\Basic DataStructures\obj\Debug\net8.0\Basic DataStructures.genruntimeconfig.cache
+C:\Users\imadb\OneDrive\Bureau\Data Structures\C#\Basic DataStructures\Basic DataStructures\obj\Debug\net8.0\ref\Basic DataStructures.dll

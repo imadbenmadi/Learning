@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\imadb\\OneDrive\\Bureau\\Data Structures\\C#\\Basic DataStructures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C4B7218-7CDC-4444-9DB1-DDF40ADB068D}|Basic DataStructures\\Basic DataStructures.csproj|c:\\users\\imadb\\onedrive\\bureau\\data structures\\c#\\basic datastructures\\basic datastructures\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C4B7218-7CDC-4444-9DB1-DDF40ADB068D}|Basic DataStructures\\Basic DataStructures.csproj|solutionrelative:basic datastructures\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C4B7218-7CDC-4444-9DB1-DDF40ADB068D}|Basic DataStructures\\Basic DataStructures.csproj|c:\\users\\imadb\\onedrive\\bureau\\data structures\\c#\\basic datastructures\\basic datastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C4B7218-7CDC-4444-9DB1-DDF40ADB068D}|Basic DataStructures\\Basic DataStructures.csproj|solutionrelative:basic datastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C4B7218-7CDC-4444-9DB1-DDF40ADB068D}|Basic DataStructures\\Basic DataStructures.csproj|c:\\users\\imadb\\onedrive\\bureau\\data structures\\c#\\basic datastructures\\basic datastructures\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C4B7218-7CDC-4444-9DB1-DDF40ADB068D}|Basic DataStructures\\Basic DataStructures.csproj|solutionrelative:basic datastructures\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\imadb\\OneDrive\\Bureau\\Data Structures\\C#\\Basic DataStructures\\Basic DataStructures\\Class1.cs",
+              "RelativeDocumentMoniker": "Basic DataStructures\\Class1.cs",
+              "ToolTip": "C:\\Users\\imadb\\OneDrive\\Bureau\\Data Structures\\C#\\Basic DataStructures\\Basic DataStructures\\Class1.cs",
+              "RelativeToolTip": "Basic DataStructures\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:42:37.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Arrays.cs",
+              "DocumentMoniker": "C:\\Users\\imadb\\OneDrive\\Bureau\\Data Structures\\C#\\Basic DataStructures\\Basic DataStructures\\Arrays.cs",
+              "RelativeDocumentMoniker": "Basic DataStructures\\Arrays.cs",
+              "ToolTip": "C:\\Users\\imadb\\OneDrive\\Bureau\\Data Structures\\C#\\Basic DataStructures\\Basic DataStructures\\Arrays.cs",
+              "RelativeToolTip": "Basic DataStructures\\Arrays.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwDIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:31:07.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\imadb\\OneDrive\\Bureau\\Data Structures\\C#\\Basic DataStructures\\Basic DataStructures\\Program.cs",
+              "RelativeDocumentMoniker": "Basic DataStructures\\Program.cs",
+              "ToolTip": "C:\\Users\\imadb\\OneDrive\\Bureau\\Data Structures\\C#\\Basic DataStructures\\Basic DataStructures\\Program.cs",
+              "RelativeToolTip": "Basic DataStructures\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:24:42.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
